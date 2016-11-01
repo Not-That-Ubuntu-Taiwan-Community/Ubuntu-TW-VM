@@ -11,7 +11,7 @@
 
 * 截至釋出時刻的最新版本軟體
 * 堪用的中文輸入法（僅將 Ubuntu 預設提供的輸入法框架設定到可正常輸入中文為止）
-* Oracle Virtualbox 與 VMware Workstation 客端支援軟體（設定到可以讓畫面自動適應虛擬機器視窗大小以及支援 OpenGL 繪圖運算卸載到主端硬體）
+* Oracle Virtualbox 與 VMware Workstation 客端支援軟體（設定到可以讓畫面自動適應虛擬機器視窗大小以及支援將 3D 繪圖運算卸載到主端硬體）
 * 設定過程中所需要安裝的額外軟體，包含但不限於 GNU Gparted 跟 zerofree
 * ubuntu-restricted-extras ubuntu 受限制軟體集合
 
@@ -37,7 +37,7 @@
 使用本軟體視同同意遵從這些軟體之授權條款與專利限制細節，本專案不負擔任何使用本軟體所衍伸之法律責任並拋棄本軟體的所有權至公有領域(Public Domain)。
 
 ## 取得軟體<br>Acquire Software
-請至本專案的[軟體釋出頁面](https://github.com/Ubuntu-Taiwan-Community/Ubuntu-TW-VM/releases)下載軟體，並留意軟體的釋出說明。
+請至本專案的[軟體釋出頁面](https://github.com/Ubuntu-Taiwan-Community/Ubuntu-TW-VM/releases)下載軟體，並請留意軟體的釋出說明。
 
 ## 已知問題與解決方案<br>Known Issues & Solutions
 ### VMware 在匯入 Open Virtualization Format(OVF) 格式的 virtual appliance（虛擬應用裝置）時回報下列錯誤：「The import failed because 〈虛擬應用裝置封存檔〉 did not pass OVF specification conformance or virtual hardware compliance checks.  Click Retry to relax OVF specification and virtual hardware compliance checks and try the import again, or click Cancel to cancel the import. If you retry the import, you might not be able to use the virtual machine in VMware Player.  [<u>C</u>ancel] [<u>R</u>etry]」
