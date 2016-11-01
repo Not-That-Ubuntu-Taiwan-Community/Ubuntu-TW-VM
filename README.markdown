@@ -1,5 +1,5 @@
 # 台灣社群非官方 Ubuntu 虛擬機器<br/>Ubuntu-TW-VM
-<https://github.com/Ubuntu-Taiwan-Community/Ubuntu-TW-VM>
+<https://github.com/Not-That-Ubuntu-Taiwan-Community/Ubuntu-TW-VM>
 
 ## 簡介<br>Introduction
 「台灣社群非官方 Ubuntu 虛擬機器」為基於「ubuntu 作業系統」所開發的 virtual appliance（虛擬應用裝置），其開發宗旨為：
