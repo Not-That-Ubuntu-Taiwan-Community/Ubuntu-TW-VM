@@ -4,13 +4,15 @@
 ## 簡介<br>Introduction
 「台灣社群非官方 Ubuntu 虛擬機器」為基於「ubuntu 作業系統」所開發的 virtual appliance（虛擬應用裝置），其開發宗旨為：
 
-* 提供需要 ubuntu 虛擬機器的使用者一個設定好可以直接使用的基本中文操作環境（含 Oracle Virtualbox 與 VMware Workstation 客端支援）
+* 提供需要 ubuntu 虛擬機器的使用者一個設定好可以直接使用的基本中文操作環境
 * 作為「台灣社群非官方客製版 ubuntu 作業系統」的實現經驗累積
 
 本軟體包含：
 
 * 截至釋出時刻的最新版本軟體
-* 設定過程中所需要的額外軟體，包含但不限於 Gparted 跟 zerofree
+* 堪用的中文輸入法（僅將 Ubuntu 預設提供的輸入法框架設定到可正常輸入中文為止）
+* Oracle Virtualbox 與 VMware Workstation 客端支援軟體（設定到可以讓畫面自動適應虛擬機器視窗大小以及支援 OpenGL 繪圖運算卸載到主端硬體）
+* 設定過程中所需要安裝的額外軟體，包含但不限於 GNU Gparted 跟 zerofree
 * ubuntu-restricted-extras ubuntu 受限制軟體集合
 
 本軟體不包含：
@@ -28,6 +30,7 @@
 
 * ubuntu-restricted-extras 軟體包所包含的軟體，包含但不限於：
 	* Adobe Flash Player（專有軟體、免費軟體）
+	* Microsoft [Core fonts for the Web](https://en.wikipedia.org/wiki/Core_fonts_for_the_Web)（免費軟體）
 	* 部份多媒體編碼器與解碼器（含受專利限制軟體、免費軟體）
 	* RAR 封存檔之壓縮與解壓縮程式（受專利限制軟體、免費軟體（解壓縮程式）、試用付費軟體（壓縮程式））
 
